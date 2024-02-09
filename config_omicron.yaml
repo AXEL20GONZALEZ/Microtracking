@@ -1,0 +1,8 @@
+
+path: C:\Users\axelb\OneDrive\Documentos\Documents\1. UNI\Z. Modular con WARIO\Codig0s_python_YOLO\data_hormiga_microscopio2  # dataset root dir
+train: images  # train images (relative to 'path')
+val: images
+
+# Classes
+names:
+  0: ant
